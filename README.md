@@ -16,16 +16,12 @@ Welcome to my project portfolio repository. Here, you'll find a curated list of 
 - **Description**: Many times there is a limit to the number of files shared online. The file packer solves the problem as it takes a folder containing the files as an input and combines all the files into a single lightweight file that can be shared around effortlessly. The file unpacker takes the created files as an input and regenerates the files to their original fo
 - **GitHub Repository**: [Project 3 Repository](https://github.com/swarajmhatre/Packify_Project)
 
-### Project 4: Awesome Web App
-- **Description**: I created a cool web application that does something great.
-- **GitHub Repository**: [Project 4 Repository](https://github.com/yourusername/project-4)
-
 ## Contributions
 
-In addition to my own projects, I've also contributed to various open-source projects. You can find my contributions on my GitHub profile: [GitHub Profile](https://github.com/yourusername)
+In addition to my own projects, I've also contributed to various open-source projects. You can find my contributions on my GitHub profile: [GitHub Profile](https://github.com/swarajmhatre)
 
 ## Contact
 
-Feel free to reach out to me if you have any questions or want to collaborate on a project. You can contact me through my [GitHub Profile](https://github.com/yourusername) or via email at your@email.com.
+Feel free to reach out to me if you have any questions or want to collaborate on a project. You can contact me through my [GitHub Profile](https://github.com/swarajmhatre) or via email at your@email.com.
 
 Thank you for visiting my portfolio!
