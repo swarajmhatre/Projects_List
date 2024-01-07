@@ -13,8 +13,12 @@ Welcome to my project portfolio repository. Here, you'll find a curated list of 
 - **GitHub Repository**: [Project 2 Repository](https://github.com/swarajmhatre/Generic_STL_Project)
 
 ### Project 3: Packify- File Packer Unpacker in JAVA
-- **Description**: Many times there is a limit to the number of files shared online. The file packer solves the problem as it takes a folder containing the files as an input and combines all the files into a single lightweight file that can be shared around effortlessly. The file unpacker takes the created files as an input and regenerates the files to their original fo
+- **Description**: Many times there is a limit to the number of files shared online. The file packer solves the problem as it takes a folder containing the files as an input and combines all the files into a single lightweight file that can be shared around effortlessly. The file unpacker takes the created files as an input and regenerates the files to their original format.
 - **GitHub Repository**: [Project 3 Repository](https://github.com/swarajmhatre/Packify_Project)
+
+### Project 4: Packify- Chat Server Project
+- **Description**: his is a simple chat server implemented in C++ using the Winsock library. The server allows multiple clients to connect and exchange messages in a chat-like environment. The code is compatible with both Visual Studio and Visual Studio Code.
+- **GitHub Repository**: [Project 4 Repository](https://github.com/swarajmhatre/ChatRoom_CPP)
 
 ## Contributions
 
